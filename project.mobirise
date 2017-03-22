@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/sam-3387-128x85.png",
     "noImageResize": ""
@@ -139,7 +139,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sam-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -234,7 +234,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Julian Marques"
+          "text": "Copyright (c) 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -314,7 +319,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiOyd_jodfSAhUGgJAKHTAUBpQQFgggMAE&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FYouTube&amp;usg=AFQjCNFwlQU8kriwlueV4771FJThGj8_aA&amp;sig2=2ftXPKKRML2MFvDI_Q651A&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sam-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -324,10 +329,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Faculdade",
-          "subtitle4": "Analises e Desenvolvimento de Sistemas",
-          "caption4": "Desde de pequeno eu sempre amei códigos, computador, tudo que se tem tecnológia envolvida eu caio em cima coisa que eu amo também.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwit7PjtodfSAhWEFJAKHVpJBgYQFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAn%25C3%25A1lise_de_sistemas&amp;usg=AFQjCNGvrIdsL7-1ioAihXZX_U9o-xdoZw&amp;sig2=tES9p6O-uCcvNpmnTbtXHA&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Vida",
+          "subtitle4": "Um pouco da minha vida.",
+          "caption4": "Eu sou uma pessoa muito caseira, gosto muito de ficar em casa, raramente eu saio para algum lugar mais passo a maior parte do meu tempo dentro de casa.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwizkvml0urSAhUII5AKHQrJBkYQFggaMAA&amp;url=http%3A%2F%2Fwww.obaoba.com.br%2Fcomportamento%2Fnoticia%2F15-sentimentos-que-so-pessoas-caseiras-podem-entender&amp;usg=AFQjCNF41pA9kEGXpqpxny3D83OSzALHQw&amp;sig2=58oB9JgNm0sU-cnTID3ksg&amp;bvm=bv.150120842,d.Y2Isa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwit7PjtodfSAhWEFJAKHVpJBgYQFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAn%25C3%25A1lise_de_sistemas&amp;usg=AFQjCNGvrIdsL7-1ioAihXZX_U9o-xdoZw&amp;sig2=tES9p6O-uCcvNpmnTbtXHA&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -352,6 +357,90 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTATO",
+          "subtitle": "Entre em contato comigo, sou uma pessoa legal e vou te responder rápido.&nbsp;",
+          "form": {
+            "action": "julian_smv@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "REDES SOCIAIS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/@jubilan_\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jubilanzz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+JulianMarquesOFC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/julianmarquesofc\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/jubaaaaaz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"1onlyanonymo.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
         }
       ]
     }
