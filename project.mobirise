@@ -224,11 +224,11 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x696.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -352,13 +352,16 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#7e9b9f"
             },
             "UL": {
               "color": "#a38f84"
             },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            ".list-group-text": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -367,16 +370,16 @@
           "_name": "contacts5",
           "_anchor": "contacts5-8",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -427,7 +430,7 @@
           },
           "text4": "julian_smv@hotmail.com",
           "title1": "Categorias",
-          "text5": "<br><br><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\">Sonhador</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\">Caseiro</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\">Atenção</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<br><br><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\" class=\"text-white\">Sonhador</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\" class=\"text-white\">Caseiro</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\" class=\"text-white\">Atenção</a><a class=\"text-primary\" href=\"#\"></a></li>",
           "text6": "<strong>Contato</strong><br>Email: julian_smv@hotmail.com<br>Phone: (69)99356916<br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>Rua Salgado filho, 955",
           "form": {
             "title": "MESSAGE",
