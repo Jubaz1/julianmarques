@@ -495,8 +495,11 @@ h6,
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 #contacts5-8 SPAN {
-  color: #7e9b9f;
+  color: #000000;
 }
 #contacts5-8 UL {
   color: #a38f84;
+}
+#contacts5-8 P {
+  color: #000000;
 }

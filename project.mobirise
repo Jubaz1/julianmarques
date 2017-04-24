@@ -352,10 +352,13 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "SPAN": {
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             "UL": {
               "color": "#a38f84"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_tags": [
