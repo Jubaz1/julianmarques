@@ -1,15 +1,15 @@
 {
   "settings": {
+    "name": "Julian",
     "currentPage": "index.html",
-    "name": "Meu site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#efefef",
+        "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#f3c649",
+        "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -22,10 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
-    "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/sam-3444-128x85.png",
-    "noImageResize": ""
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -44,31 +42,36 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -82,23 +85,16 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -111,58 +107,58 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sam-600x400.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cc-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "megaphone",
-              "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Julian</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/JulianMarquesOFC\">Contacts</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/julianmarquesofc\">Canal</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Julian Marques</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.facebook.com/julianmarquesofc\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"www.facebook.com/julianmarquesofc\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Facebook</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"www.twitter.com/julianzei\">Twitter</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"youtube.com/julianmarquesofc\">Canal</a></li>"
         },
         {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_anchor": "header1-1",
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sam-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ccc-2000x1963.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "JULIAN MARQUES",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RETARDADO<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PIADISTA</a>"
+          "title": "Julian Marques",
+          "text": "Oi, eu me chamo Julian criei esse site para poder atrair mais pessoas &nbsp;para que possam conhecer meu trabalho sim, faço videos na internet portanto espero que gostem do site, e se divirtam porque vai ter muitas coisas legais e bacanas nele .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://sobreumacertapessoa.blogspot.com.br/2015/04/um-pouco-sobre-mim-minha-vida.html\" data-toolbar=\"-mbrBtnMove\">Sobre Mim</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://sobreumacertapessoa.blogspot.com.br/2015/11/ser-cristao-e-muito-bom.html\" data-toolbar=\"-mbrBtnMove\">Minha história</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
+          "_name": "slider",
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -171,89 +167,67 @@
             "slides": [
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=DiROVUmkTok",
-                "overlay": false,
+                "image": "@PROJECT_PATH@/assets/images/sam-1-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=brzUrU_edt8",
+                "image": "@PROJECT_PATH@/assets/images/60805-585209451521452-238901440-n-2000x2666.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=7mejnzBfrxI",
+                "image": "@PROJECT_PATH@/assets/images/sam-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
-            "bgColor": "#ffffff",
+            "fullScreen": true,
+            "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-4",
+          "_anchor": "slider-6",
           "articleLayout": false
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-3",
+          "_anchor": "features3-7",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -283,8 +257,8 @@
           },
           "title1": "Sonhador",
           "subtitle1": "Sonhar é bom",
-          "caption1": "Sabia que sonhar é muito bom, até mesmo quem nunca já pensou em sonhar portanto sonhe e veja o que vai acontecer na sua vida.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjMl47PodfSAhWCkZAKHZvdBrQQFggaMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=fcIkoEJjRX7IVH6UKUzNcA&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Você sonha, gosta de sonhar? eu amo sonhar sonho bastante e creio que daqui uns anos todos os meus sonhos irão se concretizar",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jhjhjh-600x400.jpg",
@@ -297,10 +271,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsabilidade",
-          "subtitle2": "Com grandes poderes, virão grandes responsabilidades",
-          "caption2": "Ser Responsável é totalmente importante porque mostra quem você é pra quê você está nesse mundo para ter aprendizado, que a vida ensina.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjtme_YodfSAhXSnJAKHQP6C_AQFggkMAE&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FResponsabilidade&amp;usg=AFQjCNF-YqayBZlHY6TWmlb7OcNTNDN9zQ&amp;sig2=dakJ2LabESvg1wuzqj_zlQ&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Caseiro",
+          "subtitle2": "Caseiro, não Casado",
+          "caption2": "Caseiro, ser uma pessoa caseira e muito bom porque você tem a casa completamente só pra você e até mesmo privacidade, coisa que eu amo muito.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/17016110-1383450391730441-8581302155407991053-o-600x399.jpg",
@@ -313,10 +287,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Youtuber",
-          "subtitle3": "Sorria, Só Ria",
-          "caption3": "Fazer as pessoas sorrirem, esquecer os problemas em volta delas é o melhor que eu faço para ver uma pessoa feliz, até mesmo quando aquela coisa que você faz tem amor envolvido.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiOyd_jodfSAhUGgJAKHTAUBpQQFgggMAE&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FYouTube&amp;usg=AFQjCNFwlQU8kriwlueV4771FJThGj8_aA&amp;sig2=2ftXPKKRML2MFvDI_Q651A&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title3": "Seja Você Mesmo",
+          "subtitle3": "Seja você mesmo, nos bons e piores momentos",
+          "caption3": "Ser você mesmo, não é nada menos do que você ser você não é mesmo, pelo fato de muita gente não querer aceitar o seu jeito de ser.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi6_Yjm5LvTAhUFGpAKHQ2lCZIQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSeja_Voc%25C3%25AA_Mesmo_(mas_n%25C3%25A3o_Seja_sempre_o_Mesmo)&amp;usg=AFQjCNGjoWouoCQ6RvXFVOF0gLjYA9nYhQ&amp;sig2=OPLfJ8LpN_Iost-UyI0JTA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sam-1-600x400.jpg",
@@ -329,10 +303,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Vida",
-          "subtitle4": "Um pouco da minha vida.",
-          "caption4": "Eu sou uma pessoa muito caseira, gosto muito de ficar em casa, raramente eu saio para algum lugar mais passo a maior parte do meu tempo dentro de casa.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwizkvml0urSAhUII5AKHQrJBkYQFggaMAA&amp;url=http%3A%2F%2Fwww.obaoba.com.br%2Fcomportamento%2Fnoticia%2F15-sentimentos-que-so-pessoas-caseiras-podem-entender&amp;usg=AFQjCNF41pA9kEGXpqpxny3D83OSzALHQw&amp;sig2=58oB9JgNm0sU-cnTID3ksg&amp;bvm=bv.150120842,d.Y2Isa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwit7PjtodfSAhWEFJAKHVpJBgYQFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAn%25C3%25A1lise_de_sistemas&amp;usg=AFQjCNGvrIdsL7-1ioAihXZX_U9o-xdoZw&amp;sig2=tES9p6O-uCcvNpmnTbtXHA&amp;bvm=bv.149397726,d.Y2I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title4": "Atenção",
+          "subtitle4": "Eu chamo atenção mesmo",
+          "caption4": "Atenção, aquilo que você quer mais nunca consegue ter a não ser fazendo uma coisa que chame bastante atenção não é mesmo?",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -359,29 +333,101 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "SPAN": {
+              "color": "#7e9b9f"
+            },
+            "UL": {
+              "color": "#a38f84"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-7",
+          "_name": "contacts5",
+          "_anchor": "contacts5-8",
           "_params": {
-            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
-          "title": "CONTATO",
-          "subtitle": "Entre em contato comigo, sou uma pessoa legal e vou te responder rápido.&nbsp;",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cc-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Sim, esse site foi criado por mim mesmo, Julian Marques pelo fato de gostar muito de sites e tudo mais.&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(69)93356916",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "955 Salgado Filho, Porto Velho-RO",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "julian_smv@hotmail.com",
+          "title1": "Categorias",
+          "text5": "<br><br><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\">Sonhador</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\">Caseiro</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\">Atenção</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text6": "<strong>Contato</strong><br>Email: julian_smv@hotmail.com<br>Phone: (69)99356916<br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>Rua Salgado filho, 955",
           "form": {
+            "title": "MESSAGE",
             "action": "julian_smv@hotmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
@@ -390,7 +436,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Nome*"
               },
               "email": {
                 "title": "Email",
@@ -408,39 +454,32 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         },
         {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-6",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+          "_name": "image1",
+          "_anchor": "image1-a",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5svdgzcw-1400x1400.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
           },
-          "text": "REDES SOCIAIS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/@jubilan_\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jubilanzz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+JulianMarquesOFC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/julianmarquesofc\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/jubaaaaaz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"1onlyanonymo.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
+          "_params": {
+            "showText": true
+          },
+          "text": "Create amazing site with my help."
         }
       ]
     }
