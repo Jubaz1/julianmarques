@@ -475,6 +475,15 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features3-7 P {
+  color: #ffffff;
+}
+#features3-7 H4 {
+  color: #ffffff;
+}
+#features3-7 H5 {
+  color: #a9d420;
+}
 #contacts5-8 p,
 #contacts5-8 .list-group-text,
 #contacts5-8 .form-control-label {
@@ -495,7 +504,7 @@ h6,
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 #contacts5-8 SPAN {
-  color: #7e9b9f;
+  color: #ffffff;
 }
 #contacts5-8 UL {
   color: #a38f84;
@@ -504,5 +513,11 @@ h6,
   color: #ffffff;
 }
 #contacts5-8 .list-group-text {
+  color: #ffffff;
+}
+#contacts5-8 STRONG {
+  color: #ffffff;
+}
+#contacts5-8 H4 {
   color: #ffffff;
 }

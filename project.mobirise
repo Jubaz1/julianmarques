@@ -108,7 +108,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cc-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/zzz-112x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"sobreumacertapessoa.blogspot.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Julian Marques</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.facebook.com/julianmarquesofc\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://www.facebook.com/JulianMarquesOFC\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Facebook</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/julianzei\">Twitter</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCbzyiROeP_88NLoASXY2y8Q\">Canal</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.facebook.com/julianmarquesofc\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contatos</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://www.facebook.com/JulianMarquesOFC\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Facebook</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/julianzei\">Twitter</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCbzyiROeP_88NLoASXY2y8Q\">Canal</a></li>"
         },
         {
           "_inherit": "header1",
@@ -135,7 +135,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ccc-2000x1963.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sam-3-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -194,8 +194,22 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jhjhjh-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sam-2-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-4-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -226,7 +240,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x696.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/974211-611310258919616-1109697979-n-2000x2274.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -258,7 +272,7 @@
           "title1": "Sonhador",
           "subtitle1": "Sonhar é bom",
           "caption1": "Você sonha, gosta de sonhar? eu amo sonhar sonho bastante e creio que daqui uns anos todos os meus sonhos irão se concretizar",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jhjhjh-600x400.jpg",
@@ -274,7 +288,7 @@
           "title2": "Caseiro",
           "subtitle2": "Caseiro, não Casado",
           "caption2": "Caseiro, ser uma pessoa caseira e muito bom porque você tem a casa completamente só pra você e até mesmo privacidade, coisa que eu amo muito.&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/17016110-1383450391730441-8581302155407991053-o-600x399.jpg",
@@ -330,7 +344,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#a9d420"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -352,7 +377,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "SPAN": {
-              "color": "#7e9b9f"
+              "color": "#ffffff"
             },
             "UL": {
               "color": "#a38f84"
@@ -361,6 +386,12 @@
               "color": "#ffffff"
             },
             ".list-group-text": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "H4": {
               "color": "#ffffff"
             }
           },
@@ -374,7 +405,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1170752-585211571521240-1718286147-n-2000x2666.jpg",
             "bgColor": "#2969b0",
             "bgColorRadio": false,
             "overlay": true,
@@ -383,7 +414,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cc-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/zzz-265x300.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -431,7 +462,7 @@
           "text4": "julian_smv@hotmail.com",
           "title1": "Categorias",
           "text5": "<br><br><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjlx7KU4bvTAhXMHJAKHUXLAW0QFgglMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSonhador&amp;usg=AFQjCNEyUxPUAEJYuUsymGyNCuQTMV29xA&amp;sig2=yBFKdqIvLE9RJk88KrEU5A\" class=\"text-white\">Sonhador</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjZg8Pl4rvTAhVCjZAKHfPTAcwQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FCaseiro&amp;usg=AFQjCNEMk3_a19xUqnUcnsr7oqC-EiQAxw&amp;sig2=yYQmsCPuZqh8W2QZjHCuuQ\" class=\"text-white\">Caseiro</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\" class=\"text-white\">Atenção</a><a class=\"text-primary\" href=\"#\"></a></li>",
-          "text6": "<strong>Contato</strong><br>Email: julian_smv@hotmail.com<br>Phone: (69)99356916<br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>Rua Salgado filho, 955",
+          "text6": "<strong>Contato</strong><br>Email: julian_smv@hotmail.com<br>Phone: (69)99356916<br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">Endereço</span></font><br>Rua Salgado filho, 955",
           "form": {
             "title": "MESSAGE",
             "action": "julian_smv@hotmail.com",
@@ -446,7 +477,7 @@
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Email*"
               },
               "phone": {
@@ -461,31 +492,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-a",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/5svdgzcw-1400x1400.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "Create amazing site with my help."
         }
       ]
     }
