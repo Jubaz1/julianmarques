@@ -121,7 +121,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"sobreumacertapessoa.blogspot.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Julian Marques</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sobreumacertapessoa.blogspot.com.br/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Julian Marques</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.facebook.com/julianmarquesofc\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contatos</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://www.facebook.com/JulianMarquesOFC\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Facebook</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/julianzei\">Twitter</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCbzyiROeP_88NLoASXY2y8Q\">Canal</a></li>"
         },
         {
@@ -304,7 +304,7 @@
           "title3": "Seja Você Mesmo",
           "subtitle3": "Seja você mesmo, nos bons e piores momentos",
           "caption3": "Ser você mesmo, não é nada menos do que você ser você não é mesmo, pelo fato de muita gente não querer aceitar o seu jeito de ser.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi6_Yjm5LvTAhUFGpAKHQ2lCZIQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSeja_Voc%25C3%25AA_Mesmo_(mas_n%25C3%25A3o_Seja_sempre_o_Mesmo)&amp;usg=AFQjCNGjoWouoCQ6RvXFVOF0gLjYA9nYhQ&amp;sig2=OPLfJ8LpN_Iost-UyI0JTA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi6_Yjm5LvTAhUFGpAKHQ2lCZIQFggjMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSeja_Voc%25C3%25AA_Mesmo_(mas_n%25C3%25A3o_Seja_sempre_o_Mesmo)&amp;usg=AFQjCNGjoWouoCQ6RvXFVOF0gLjYA9nYhQ&amp;sig2=OPLfJ8LpN_Iost-UyI0JTA\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sam-1-600x400.jpg",
@@ -320,7 +320,7 @@
           "title4": "Atenção",
           "subtitle4": "Eu chamo atenção mesmo",
           "caption4": "Atenção, aquilo que você quer mais nunca consegue ter a não ser fazendo uma coisa que chame bastante atenção não é mesmo?",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiDwcv-4rvTAhWFkpAKHZ4aA94QFggmMAA&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAten%25C3%25A7%25C3%25A3o&amp;usg=AFQjCNELMp9qJphF-QzQ8goZrCRThQVbWQ&amp;sig2=pX5-0c7CYEpECi4cKPY1uA\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
